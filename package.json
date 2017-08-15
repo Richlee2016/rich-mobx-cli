@@ -4,6 +4,11 @@
   "description": "a mobx project",
   "author": "rich",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Richlee2016/rich-mobx-cli.git"
+  },
+  "keywords": ["mobx"],
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
