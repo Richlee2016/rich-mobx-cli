@@ -18,4 +18,6 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# MobX-cli
+
+这是用vue-cli模板修改的用于学习react、mobx的模板。
