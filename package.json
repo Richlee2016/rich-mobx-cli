@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "a mobx project",
   "author": "rich",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/Richlee2016/rich-mobx-cli.git"
